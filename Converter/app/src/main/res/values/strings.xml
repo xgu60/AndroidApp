@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="units">Choose a unit</string>
+    <string name="converter">Weight Converter</string>
+    <string name="convert_from">Convert from:</string>
+    <string name="convert_to">Convert to:</string>
+    <string name="value">Value:</string>
+    <string name="result">Result:</string>
+    <string name="convert">CONVERT</string>
+    <string name="rnd_convert">RND CONVERT</string>
+    <string name="reset">RESET</string>
+    <string-array name="listOfUnits">
+        <item>Stones</item>
+        <item>Pounds</item>
+        <item>Ounces</item>
+        <item>Grains</item>
+        <item>Metric tons</item>
+        <item>Kilograms</item>
+        <item>Grams</item>
+        <item>Milligrams</item>
+    </string-array>
+</resources>
